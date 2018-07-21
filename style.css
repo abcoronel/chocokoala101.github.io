@@ -1,0 +1,38 @@
+#header {
+    position: fixed;
+    width: 103%;
+    height: 8.5%;
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
+    z-index: 999;
+    background: white;
+}
+
+#title {
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+}
+
+#nav {
+    text-align: right;
+    margin-right: 6px;
+}
+
+#main {
+    padding: 20px;
+    position: relative;
+    top:10%;
+}
+
+#divider {
+    width: 75%;
+    position: relative;
+    left: 15%;
+    border: 0.5px solid #ccc;
+    margin-top:45px;
+    margin-bottom: 55px;
+}
+
+img {
+    margin: 5px;
+}
